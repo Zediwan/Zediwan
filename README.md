@@ -1,6 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jeremy Moser</h1>
-<h3 align="center">A passionate programmer from Switzerland</h3>
-
+<img width="1834" alt="Make your README" src="https://github.com/Zediwan/Zediwan/assets/107117424/20108ccf-a6ab-4438-86cd-2eb7151e9a89">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zediwan&label=Profile%20views&color=0e75b6&style=flat" alt="zediwan" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zediwan" alt="zediwan" /></a> </p>
