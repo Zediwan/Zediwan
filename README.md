@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zediwan&label=Profile%20views&color=0e75b6&style=flat" alt="zediwan" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zediwan" alt="zediwan" /></a> </p>
 
-- 🔭 I’m currently working on an [Python Evolution Simulation](https://github.com/Zediwan/PyEvoSim)
+- 🔭 I’m currently working on [PyEvoSim](https://github.com/Zediwan/PyEvoSim)
 
 - 🌱 I’m currently learning **C#**
 
