@@ -5,11 +5,7 @@
 
 - 🔭 I’m currently working on [PyEvoSim](https://github.com/Zediwan/PyEvoSim)
 
-- 🌱 I’m currently learning **C#**
-
-- 🤝 I’m looking for help with [BioRT-NEAT](https://github.com/Zediwan/BioRT-NEAT)
-
-- 👨‍💻 All of my projects are available at [https://zediwan.com](https://zediwan.com)
+- 🌱 I’m currently learning **C# & .NET**
 
 - 💬 Ask me about **Python**
 
