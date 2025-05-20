@@ -3,11 +3,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zediwan&label=Profile%20views&color=0e75b6&style=flat" alt="zediwan" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zediwan" alt="zediwan" /></a> </p>
 
-- 🔭 I’m currently working on [PyEvoSim](https://github.com/Zediwan/PyEvoSim)
+- 🔭 I’m currently working on [Test Generator](https://github.com/Zediwan/TestGenerator)
 
 - 🌱 I’m currently learning **C# & .NET**
 
-- 💬 Ask me about **Python**
+- 💬 Ask me about **Evolution Simulations**
 
 - 📫 How to reach me **work@zediwan.com**
 
